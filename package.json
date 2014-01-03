@@ -1,0 +1,21 @@
+{
+    "schema_version": "1.2",
+    "packages": [
+        {
+            "name": "SublimeCrontab",
+            "description": "Syntax support for the Crontab format",
+            "author": "Matthew Ward",
+            "homepage": "https://github.com/WheresWardy/SublimeCrontab",
+            "last_modified": "2014-01-03 17:29:56",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "0.1",
+                        "url": "https://nodeload.github.com/WheresWardy/SublimeCrontab/zip/0.1"
+                    }
+                ]
+            }
+        }
+    ]
+}
+
